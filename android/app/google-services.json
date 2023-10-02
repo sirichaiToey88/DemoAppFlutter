@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "592812886238",
+    "project_id": "livechatflutter-99e26",
+    "storage_bucket": "livechatflutter-99e26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592812886238:android:c8e811bc1d76ff124b5a4f",
+        "android_client_info": {
+          "package_name": "com.example.demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592812886238-l8phrtgg41vat9a8lqduhf4t0d8fa8oa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demo_app",
+            "certificate_hash": "29011f6506ee6f1e284f4550e508b844999b89bc"
+          }
+        },
+        {
+          "client_id": "592812886238-ke7qu7l0gl4bejkkag53r60kii3d7h66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9fm4cfREs_Q27dzMCpYumSkCGFMm6iJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592812886238-ke7qu7l0gl4bejkkag53r60kii3d7h66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
